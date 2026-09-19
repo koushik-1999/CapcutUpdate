@@ -1,6 +1,6 @@
 {
   "enabled": false,
-  "force_update": true,
+  "force_update": false,
   "credit": "MR. NoOB",
 
   "title": "Update Available!",
